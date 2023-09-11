@@ -142,3 +142,14 @@ a {
   border-radius: 0.5em;
   cursor: pointer;
 }
+
+.footer {
+  background-color: #1f2937;
+  text-align: center;
+  height: 7vh;
+}
+
+.footer_content {
+  color: #f9faf8;
+  padding-top: 1.5em;
+}
