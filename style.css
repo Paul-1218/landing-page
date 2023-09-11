@@ -61,7 +61,7 @@ a {
 }
 
 .placeholder {
-  background-color: rgb(98, 98, 98);
+  background-color: #b2b2b2b2;
   height: 10em;
   width: 60em;
   margin-right: 5em;
@@ -71,4 +71,28 @@ a {
 .placeholder_txt {
   padding-top: 4em;
   color: #f9faf8;
+}
+
+.section2_header {
+  font: 2.25em, bold;
+  text-align: center;
+}
+
+.block_contant {
+  display: flex;
+  margin: 2em 11em;
+  gap: 2em;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.info_box {
+  font-size: 0.8em;
+  text-align: center;
+  width: 17em;
+}
+
+.img_box {
+  border-radius: 2em;
+  border: solid #3882f6;
 }
