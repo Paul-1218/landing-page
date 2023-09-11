@@ -34,9 +34,9 @@ a {
   justify-content: center;
   align-items: center;
   height: 35vh;
-  gap: 5em;
-  padding-left: 7em;
-  padding-right: 15em;
+  padding-left: 5em;
+  padding-right: 3em;
+  gap: 3em;
   background-color: #1f2937;
 }
 
@@ -58,4 +58,17 @@ a {
   border-radius: 0.5em;
   margin-top: 0.7em;
   font-weight: bold;
+}
+
+.placeholder {
+  background-color: rgb(98, 98, 98);
+  height: 10em;
+  width: 60em;
+  margin-right: 5em;
+  text-align: center;
+}
+
+.placeholder_txt {
+  padding-top: 4em;
+  color: #f9faf8;
 }
